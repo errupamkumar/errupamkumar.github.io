@@ -1,8 +1,8 @@
-# Rupam Kumar · Portfolio
+# Rupam Kumar · Portfolio (errupamkumar.github.io)
 
 Personal portfolio of **Rupam Kumar**: Power BI Developer, BI Engineer at HCLTech and Claude Certified Architect.
 
-🌐 **Live:** https://errupamkumar.github.io/portfolio-website_prod/
+🌐 **Live:** https://errupamkumar.github.io/
 
 A single-page static site (HTML, CSS and vanilla JS, no build step) that tells my career as a journey across the world, from Patna to Bikaner to Noida to Dublin:
 
